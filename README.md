@@ -2,7 +2,7 @@
 
 Simple todo MVC application in plain JavaScript
 
-[View the demo]()
+[View the demo](https://silvertechguy.github.io/mvc-javascript)
 
 ## Purpose
 
